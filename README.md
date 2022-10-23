@@ -4,6 +4,9 @@
 * Install dependencies:  
 `pip install -r requirements/prod.txt`
 
+## Report
+PDF of the report can be found under `Simulating_Government_Policies_on_the_Spread_of_COVID`
+
 ## File Descriptions
 ### COVID_Simulation_V11:
 Perfoms random walk to identify the number of people who would get infected from COVID-19.  
