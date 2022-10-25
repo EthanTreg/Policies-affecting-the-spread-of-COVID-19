@@ -2,7 +2,11 @@
 
 ## Requirements
 * Install dependencies:  
-`pip install -r requirements/prod.txt`
+`pip install -r requirements.txt`
+* CuPy dependencies:  
+NVIDIA GPU with CUDA toolkit > v10.2 [^1]
+[^1]: If NVIDIA GPU not avaliable, remove `mempool` in `simulation` under `COVID_Simulation_V11.py`
+and change all `cp.` references to `np.` and remove `cp.asnumpy` in `simulation`
 
 ## Report
 PDF of the report can be found under `Simulating_Government_Policies_on_the_Spread_of_COVID`
