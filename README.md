@@ -9,7 +9,8 @@ NVIDIA GPU with CUDA toolkit > v10.2 [^1]
 and change all `cp.` references to `np.` and remove `cp.asnumpy` in `simulation`
 
 ## Report
-PDF of the report can be found under `Simulating_Government_Policies_on_the_Spread_of_COVID`
+PDF of the report can be found under "[Simulating_Government_Policies_on_the_Spread_of_COVID](
+https://github.com/EthanTreg/Policies-affecting-the-spread-of-COVID-19/blob/master/Simulating_Government_Policies_on_the_Spread_of_COVID.pdf)"
 
 ## File Descriptions
 ### COVID_Simulation_V11:
